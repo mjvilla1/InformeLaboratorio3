@@ -36,7 +36,7 @@ Objetivo General
  la cual en la realidad causa una notable variación.
  
  - No en todos los casos los valores teoricos seran igaules a los medidos, si se asemejaran. En la solución del circuito por medio 
- -de LCK se llegará a una misma respuesta con una desfase de error mínimo.
+ de LCK se llegará a una misma respuesta con una desfase de error mínimo.
  
 
 # 7. Bibliografía 
