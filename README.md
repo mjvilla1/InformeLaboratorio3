@@ -68,8 +68,13 @@ I3=0.488mA
 
 ![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Resultados.jpeg)
 
+![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Calculo%20de%20error%20corrientes.PNG)
+![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Calculo%20de%20error%20corrientes%201.PNG)
+
+
 # 5. Video
 
+https://www.youtube.com/watch?v=SFYcUKzjl3I
 
 # 6. Conclusiones
 
