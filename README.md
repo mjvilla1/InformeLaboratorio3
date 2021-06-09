@@ -26,13 +26,47 @@ Objetivo General
 
 # 3. Explicación  del procedimiento
 
+Para realizar el calculo de intensidades mediante el circuito de Mallas primero debemos identificar cada malla, la malla se identifica como un circuito cerrado con elementos colocados en serie.
+
+Una vez hemos identificamos las mallas procedemos a colocar la polaridad de los elementos ayudandonos de la simbologia, una vez hecho esto procedemos a dar un sentido en el que circule la corriente.
+
+![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Direccion%20de%20las%20corrientes.PNG)
+
+Cuando tengamos todo esto realizado procedemos a hacer los calculos mediante las leyes de kirchoff para mallas, la cual nos dice que la sumatoria de voltajes sera igual a la sumatoria de resistencias por intencidades(Voltaje) ΣV=ΣI*R por cada malla.
+
+Nos basamos en el sentido de la corriente que tomamos para tomar los valores de voltajes y resistencias de cada malla.
 
 #  4. Respuestas 
 
+Malla I
+
+18V=0.82I1+I1-I2
+18V=1.82I1-I2
+
+Malla II
+
+1.2I2+2.2I2+I2-I1-2.2I3=0
+-I1+4.4I2-2.2I3=0
+
+Malla III
+
+-5V=2.2I3+0.39I3-2.2I2
+-5V=2.59I3-2.2I2
+
+Nos dan 3 ecuaciones con 3 incognitas, resolviendo las ecuaciones tenemos como resultado:
+
+I1=11.4546mA
+
+I2=2.875mA
+
+I3=0.488mA
+
+![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Resultados%20medidos.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Resultados.jpeg)
 
 # 5. Video
 
-https://youtu.be/SFYcUKzjl3I
 
 # 6. Conclusiones
 
