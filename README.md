@@ -6,7 +6,7 @@ Integrantes:César Garnica - Jonathan Insuasti - Melany  Villa
 
 Objetivo General
      
-    - Identificar y estudiar el método de análisis de mallas el cual parte de la aplicación de KVL a un 
+    - Identificar y estudiar el método de análisis de mallas el cual parte de la aplicación de LCK a un 
     conjunto mínimo de lazos para encontrar al final todas las corrientes de lazo. A partir de las 
     corrientes de lazo es posible encontrar todas las corrientes de rama.      
     
@@ -35,7 +35,8 @@ Objetivo General
  para el armado de circuitos no cuentan con alguna resistencia real, en el caso de las resistencias no cuentan con una tolerancia, 
  la cual en la realidad causa una notable variación.
  
- - No en todos los casos los valores teoricos seran igaules a los medidos, si se asemejaran. En la solución del circuito por medio de LCK se llegará a una misma respuesta con una desfase de error mínimo.
+ - No en todos los casos los valores teoricos seran igaules a los medidos, si se asemejaran. En la solución del circuito por medio 
+ -de LCK se llegará a una misma respuesta con una desfase de error mínimo.
  
 
 # 7. Bibliografía 
