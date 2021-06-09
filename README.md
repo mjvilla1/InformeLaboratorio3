@@ -18,6 +18,7 @@ Objetivo General
 
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Materiales.Mallas.PNG)
 
 # 3. Explicación  del procedimiento
 
