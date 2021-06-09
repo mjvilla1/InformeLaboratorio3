@@ -41,16 +41,19 @@ Nos basamos en el sentido de la corriente que tomamos para tomar los valores de 
 Malla I
 
 18V=0.82I1+I1-I2
+
 18V=1.82I1-I2
 
 Malla II
 
 1.2I2+2.2I2+I2-I1-2.2I3=0
+
 -I1+4.4I2-2.2I3=0
 
 Malla III
 
 -5V=2.2I3+0.39I3-2.2I2
+
 -5V=2.59I3-2.2I2
 
 Nos dan 3 ecuaciones con 3 incognitas, resolviendo las ecuaciones tenemos como resultado:
