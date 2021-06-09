@@ -42,6 +42,8 @@ Objetivo General
  - No en todos los casos los valores teoricos seran igaules a los medidos, si se asemejaran. En la solución del circuito por medio 
  de LCK se llegará a una misma respuesta con una desfase de error mínimo.
  
+-  Los resultados tanto del simulador como de las operaciones manuales dan variantes en cierta forma ya que las operaciones nos dan resultados teóricos en cambio en la simulación nos da resultados experimentales
+
 
 # 7. Bibliografía 
 
