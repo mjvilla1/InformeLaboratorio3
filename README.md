@@ -18,6 +18,10 @@ Objetivo General
 
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Mapa%20Leyes%20de%20Kirchhoff.PNG)
+
+![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Mapa%20Analisis%20de%20Mallas.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesLab2/blob/main/Materiales.Mallas.PNG)
 
 # 3. Explicación  del procedimiento
