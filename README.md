@@ -31,5 +31,11 @@ Objetivo General
 
 # 6. Conclusiones
 
+- En este laboratorio realizado de manera “virtual” se pudo apreciar que los errores calculados se deben a que los componentes utilizados
+ para el armado de circuitos no cuentan con alguna resistencia real, en el caso de las resistencias no cuentan con una tolerancia, 
+ la cual en la realidad causa una notable variación.
+ 
+ - No en todos los casos los valores teoricos seran igaules a los medidos, si se asemejaran. En la solución del circuito por medio de LCK se llegará a una misma respuesta con una desfase de error mínimo.
+ 
 
 # 7. Bibliografía 
