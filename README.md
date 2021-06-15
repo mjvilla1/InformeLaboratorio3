@@ -6,12 +6,12 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
      Objetivo General
      
-    - Realizar el circuito indicado y medir corrientes y voltajes en cada uno de los nodos formados     
+    - Analizar por nodos la aplicacion de KCL a cada nodo del circuito para encontrar al final todos los voltajes del nodo del circuito que se plantee.   
     
     Objetivos Específicos
      - Usar le vatímetro para medir resistencias e inductores con fuente de voltaje alterno.
      - Comprobar el valor de cada medición de voltaje obtenido en cada nodo.
-     -
+     - Realizar el circuito indicado y medir corrientes y voltajes en cada uno de los nodos formados. 
 
 
 # 2. Marco Teórico
@@ -35,7 +35,7 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 ecuaciones independientes con voltajes y corrientes desconocidos.
 
 - Este método nos facilitó encontrar los voltajes que pueden encontrarse en el nodo y así nos facilitaremos para, poder encontrar la corriente que para por el circuito.
-- Las leyes de Kirchhoff faCilitan bastante el cálculo en un circuito eléctrico.
+- Las leyes de Kirchhoff facilitan bastante el cálculo en un circuito eléctrico.
 
 
 # 7. Bibliografía 
