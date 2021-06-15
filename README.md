@@ -16,7 +16,7 @@ Objetivo General
 
 
 
-# 3. Explicación  del procedimiento
+# 3. Explicación  del Procedimiento
 
 
 #  4. Respuestas 
