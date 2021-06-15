@@ -6,7 +6,8 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
      Objetivo General
      
-    - Analizar por nodos la aplicacion de KCL a cada nodo del circuito para encontrar al final todos los voltajes del nodo del circuito que se plantee.   
+    - Analizar por nodos la aplicacion de KCL a cada nodo del circuito para encontrar al final todos los voltajes
+    del nodo del circuito que se plantee.   
     
     Objetivos Específicos
      - Usar le vatímetro para medir resistencias e inductores con fuente de voltaje alterno.
