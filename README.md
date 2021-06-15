@@ -1,4 +1,4 @@
-# InformeLaboratorio2
+# InformeLaboratorio3
 
 Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica 
 
