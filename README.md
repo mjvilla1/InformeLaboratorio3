@@ -34,4 +34,4 @@ Objetivo General
 
 # 7. Bibliografía 
 
-Análisis de mallas - Análisis de circuitos I. (2021). Análisis de mallas - Análisis de circuitos I. Google.com. https://sites.google.com/site/proyectocircuitos1/analisis-de-mallas
+
