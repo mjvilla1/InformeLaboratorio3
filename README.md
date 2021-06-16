@@ -29,7 +29,7 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 5. Video
 
-
+https://youtu.be/_CVu2gqb3XY
 
 # 6. Conclusiones
 
@@ -41,5 +41,7 @@ ecuaciones independientes con voltajes y corrientes desconocidos.
 
 
 # 7. Bibliografía 
+
+Khan Academy. (2021). Khanacademy.org. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
 
 
