@@ -40,6 +40,8 @@ Analizamos los nodos B y C son los que podemos trabajar, en estos analizaremos s
 
 ![](https://github.com/mjvilla1/ImagenesLab3/blob/main/Nodos%20.jpeg)
 
+![](https://github.com/mjvilla1/ImagenesLab3/blob/main/Error.PNG)
+
 # 5. Video
 
 https://youtu.be/_CVu2gqb3XY
