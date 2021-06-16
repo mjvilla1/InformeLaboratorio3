@@ -17,6 +17,7 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesLab3/blob/main/Analisis%20de%20Nodos.PNG)
 ![](https://github.com/mjvilla1/ImagenesLab3/blob/main/Materiales_Nodos.PNG)
 
 # 3. Explicación  del procedimiento
